@@ -6,7 +6,7 @@ payload = json.dumps({
    "task_name": "每日签到"
 })
 headers = {
-   'x-api-key': '{m8YSSEQLKsbl2BHAOqNEB5VL1CddvupP}',
+   'x-api-key': '{{m8YSSEQLKsbl2BHAOqNEB5VL1CddvupP}}',
    'User-Agent': 'Mozilla/5.0',
    'Content-Type': 'application/json'
 }
